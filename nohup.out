@@ -1,0 +1,151 @@
+[I 21:22:31.075 NotebookApp] Serving notebooks from local directory: /home/cvlab/junha/git/a-PyTorch-Tutorial-to-Image-Captioning
+[I 21:22:31.075 NotebookApp] The Jupyter Notebook is running at:
+[I 21:22:31.075 NotebookApp] http://147.46.114.173:8888/
+[I 21:22:31.075 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:22:33.761 NotebookApp] 302 GET / (121.140.5.214) 0.89ms
+[W 21:22:33.785 NotebookApp] Clearing invalid/expired login cookie username-147-46-114-173-8888
+[W 21:22:33.787 NotebookApp] Clearing invalid/expired login cookie username-147-46-114-173-8888
+[I 21:22:33.787 NotebookApp] 302 GET /tree? (121.140.5.214) 2.80ms
+[W 21:22:36.039 NotebookApp] Not allowing login redirect to '/tree?'
+[I 21:22:36.040 NotebookApp] 302 POST /login?next=%2Ftree%3F (121.140.5.214) 2.24ms
+[I 21:22:36.057 NotebookApp] 302 GET / (121.140.5.214) 0.62ms
+[I 21:22:44.621 NotebookApp] Kernel started: b1a95bb7-0b86-44c8-829a-07e36df7f10d
+[I 21:22:45.994 NotebookApp] Adapting to protocol v5.1 for kernel b1a95bb7-0b86-44c8-829a-07e36df7f10d
+[I 21:24:44.685 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:26:44.654 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:28:09.871 NotebookApp] Copying caption.py to 
+[I 21:28:17.979 NotebookApp] Copying models.py to 
+[I 21:28:44.909 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:40:25.759 NotebookApp] Saving file at /models-Copy1.py
+[I 21:47:06.756 NotebookApp] Saving file at /models-Copy1.py
+[I 21:48:00.955 NotebookApp] Saving file at /models-Copy1.py
+[I 23:18:43.203 NotebookApp] Saving file at /models-Copy1.py
+[I 23:18:43.223 NotebookApp] Saving file at /models-Copy1.py
+[I 23:18:56.774 NotebookApp] Saving file at /models-Copy1.py
+[I 23:20:44.647 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:22:44.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:24:44.630 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:28:44.855 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:30:44.858 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:32:47.505 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:34:48.692 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:36:44.891 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:38:44.633 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:40:44.899 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:42:30.256 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:42:44.631 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:44:44.634 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:57:07.545 NotebookApp] 302 GET / (205.209.186.45) 0.91ms
+[I 23:57:07.880 NotebookApp] 302 GET /tree? (205.209.186.45) 1.07ms
+[I 23:57:09.598 NotebookApp] 302 GET / (205.209.186.45) 1.01ms
+[I 23:57:09.909 NotebookApp] 302 GET /tree? (205.209.186.45) 1.09ms
+[I 23:58:57.108 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:58:57.256 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:59:50.048 NotebookApp] Kernel shutdown: b1a95bb7-0b86-44c8-829a-07e36df7f10d
+[W 01:49:21.999 NotebookApp] 404 GET http://www.mylanviewer.com/index.html (142.252.255.153) 14.74ms referer=None
+[W 03:59:09.262 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.40ms referer=None
+[I 04:18:20.386 NotebookApp] 302 GET / (196.52.43.106) 0.96ms
+[W 06:00:18.555 NotebookApp] 404 GET http://dx.doi.org/ (124.65.34.222) 1.96ms referer=None
+[I 13:14:54.583 NotebookApp] 302 GET / (172.105.238.87) 0.92ms
+[I 13:40:08.693 NotebookApp] 302 GET / (147.47.208.244) 0.72ms
+[W 14:07:16.434 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.38ms referer=None
+[I 15:40:00.690 NotebookApp] Kernel started: 15a0b43d-738e-4494-aa40-7c4e7492c817
+[I 15:40:02.043 NotebookApp] Adapting to protocol v5.1 for kernel 15a0b43d-738e-4494-aa40-7c4e7492c817
+[I 15:42:00.725 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:44:01.076 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:46:00.739 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:28:09.598 NotebookApp] Starting buffering for 15a0b43d-738e-4494-aa40-7c4e7492c817:ea295fce216041fa9f850ad9d3874216
+[W 00:13:56.124 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 4.03ms referer=None
+[W 02:16:04.440 NotebookApp] 404 GET http://api.ipify.org/ (221.0.20.188) 19.08ms referer=None
+[I 02:17:09.430 NotebookApp] 302 GET / (34.210.69.199) 0.99ms
+[W 10:20:22.790 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.46ms referer=None
+[W 20:27:21.049 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 4.17ms referer=None
+[W 06:35:10.625 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.51ms referer=None
+[I 11:17:04.542 NotebookApp] 302 GET / (139.162.83.10) 0.96ms
+[I 15:03:22.754 NotebookApp] 302 GET / (107.6.169.250) 0.90ms
+[I 15:03:23.038 NotebookApp] 302 GET /tree? (107.6.169.250) 1.16ms
+[W 16:44:10.566 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.50ms referer=None
+[I 22:02:23.210 NotebookApp] 302 GET / (138.219.173.63) 0.98ms
+[W 02:52:01.188 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.56ms referer=None
+[W 05:03:47.082 NotebookApp] 404 GET http://www.mylanviewer.com/index.html (142.252.255.153) 2.43ms referer=None
+[W 12:59:24.231 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 4.03ms referer=None
+[I 22:31:48.218 NotebookApp] 302 GET / (147.47.208.244) 0.77ms
+[I 22:32:22.240 NotebookApp] Adapting to protocol v5.1 for kernel 15a0b43d-738e-4494-aa40-7c4e7492c817
+[I 22:33:36.843 NotebookApp] Kernel shutdown: 15a0b43d-738e-4494-aa40-7c4e7492c817
+[W 23:04:00.490 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.56ms referer=None
+[W 09:10:05.067 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.35ms referer=None
+[I 10:27:20.755 NotebookApp] 302 GET / (172.105.238.87) 0.96ms
+[I 16:21:16.353 NotebookApp] 302 GET / (147.47.208.244) 0.77ms
+[I 16:23:36.971 NotebookApp] Kernel started: 86e0afde-97cf-4e2f-8f88-1a0335651f90
+[I 16:23:38.400 NotebookApp] Adapting to protocol v5.1 for kernel 86e0afde-97cf-4e2f-8f88-1a0335651f90
+[I 16:31:37.113 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:39:37.039 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:41:37.045 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:43:37.029 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:45:37.032 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:46:12.317 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:47:37.027 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:49:37.045 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:51:37.048 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:53:37.048 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:55:37.038 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:57:37.191 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:11:37.021 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:15:30.698 NotebookApp] Saving file at /Untitled.ipynb
+[W 17:42:38.404 NotebookApp] WebSocket ping timeout after 119953 ms.
+[I 17:42:43.407 NotebookApp] Starting buffering for 86e0afde-97cf-4e2f-8f88-1a0335651f90:4569389d1b0445009d4bd2819710dc51
+[I 18:26:22.662 NotebookApp] Adapting to protocol v5.1 for kernel 86e0afde-97cf-4e2f-8f88-1a0335651f90
+[I 18:26:22.663 NotebookApp] Restoring connection for 86e0afde-97cf-4e2f-8f88-1a0335651f90:4569389d1b0445009d4bd2819710dc51
+[W 19:14:53.085 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.48ms referer=None
+[I 19:56:54.357 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:33:52.239 NotebookApp] 302 GET / (205.209.186.187) 0.97ms
+[I 20:33:52.553 NotebookApp] 302 GET /tree? (205.209.186.187) 1.11ms
+[I 20:33:54.290 NotebookApp] 302 GET / (205.209.186.187) 0.93ms
+[I 20:33:54.606 NotebookApp] 302 GET /tree? (205.209.186.187) 1.08ms
+[I 21:03:37.606 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:07:44.399 NotebookApp] 302 GET / (196.52.43.55) 0.92ms
+[W 21:40:16.616 NotebookApp] delete /caption-Copy1.py
+[W 21:40:16.621 NotebookApp] delete /models-Copy1.py
+[W 21:40:26.034 NotebookApp] delete /caption_datasets.zip
+[I 21:57:37.533 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 21:59:37.533 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 22:01:37.518 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 22:03:23.576 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 22:03:23.864 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 22:03:24.075 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 22:03:27.263 NotebookApp] Starting buffering for 86e0afde-97cf-4e2f-8f88-1a0335651f90:4569389d1b0445009d4bd2819710dc51
+[W 05:21:43.090 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 2.44ms referer=None
+[I 08:02:53.357 NotebookApp] 302 GET / (116.35.187.178) 0.58ms
+[I 08:03:16.483 NotebookApp] Adapting to protocol v5.1 for kernel 86e0afde-97cf-4e2f-8f88-1a0335651f90
+[I 08:09:16.469 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:11:16.483 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:13:16.436 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:13:34.755 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:15:16.448 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:17:09.145 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[W 08:21:27.385 NotebookApp] delete /img/IMG_3240.JPG
+[W 08:21:27.389 NotebookApp] delete /img/IMG_3244.JPG
+[W 08:21:27.395 NotebookApp] delete /img/IMG_3249.JPG
+[W 08:21:27.401 NotebookApp] delete /img/IMG_3254.JPG
+[W 08:21:27.408 NotebookApp] delete /img/IMG_3333.JPG
+[I 08:21:41.262 NotebookApp] Uploading file to /img/ski.jpg
+[I 08:21:42.205 NotebookApp] Uploading file to /img/programmer.jpg
+[I 08:21:43.000 NotebookApp] Uploading file to /img/dogs.jpg
+[I 08:23:16.471 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:24:12.411 NotebookApp] Uploading file to /img/img4.jpg
+[I 08:25:15.544 NotebookApp] Uploading file to /img/img5.jpg
+[I 08:25:17.013 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:27:17.044 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:28:20.281 NotebookApp] Uploading file to /img/img6.jpg
+[I 08:29:16.434 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:29:35.991 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:30:12.530 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:31:16.436 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:31:22.976 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:32:32.921 NotebookApp] Kernel shutdown: 86e0afde-97cf-4e2f-8f88-1a0335651f90
+[I 08:35:33.559 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:35:33.732 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:39:54.595 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:39:56.603 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:39:56.770 NotebookApp] Saving file at /Image_captioning_practice.ipynb
+[I 08:39:56.934 NotebookApp] Saving file at /Image_captioning_practice.ipynb
